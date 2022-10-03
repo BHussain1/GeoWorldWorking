@@ -13,6 +13,17 @@ public class A3_changeMyColor extends World {
         plane.setColor(130, 0, 130);
         plane.move(100);
 
+        plane.teleport(100, 100);
+        plane.move(200);
+        plane.turn(90);
+        plane.move(200);
+        plane.turn(90);
+        plane.move(200);
+        plane.turn(90);
+        plane.move(200);
+        plane.turn(90);
+
+
     }
 
 
